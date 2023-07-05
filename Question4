@@ -1,1 +1,3 @@
+Q4. What is JIT compiler?
 
+JIT (Just-In-Time) compiler is a component of the JVM that dynamically compiles bytecode into native machine code during runtime. It analyzes frequently executed portions of the bytecode and optimizes them for better performance.
