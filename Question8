@@ -1,1 +1,7 @@
+Q8. What are the data types in Java?
 
+
+Java has two categories of data types:
+
+Primitive data types: They include int, boolean, char, double, etc., and hold simple values.
+Reference data types: They include classes, interfaces, arrays, and hold references to objects.
