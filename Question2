@@ -1,1 +1,7 @@
+Q2. What is the difference between JDK, JRE, and JVM?
 
+JDK (Java Development Kit) is a software development environment that provides tools necessary for developing Java applications. It includes the JRE (Java Runtime Environment) and additional development tools.
+
+JRE (Java Runtime Environment) is the runtime environment for executing Java applications. It includes the JVM (Java Virtual Machine) and other libraries required to run Java programs.
+
+JVM (Java Virtual Machine) is the runtime environment that executes Java bytecode. It provides the platform independence and manages memory, garbage collection, and other runtime functionalities.
