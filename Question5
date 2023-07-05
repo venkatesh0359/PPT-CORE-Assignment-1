@@ -1,1 +1,7 @@
+Q5. What are the various access specifiers in Java?
+Java has four access specifiers:
 
+Public: The member can be accessed from anywhere.
+Protected: The member is accessible within the same package or subclasses in different packages.
+Default (no specifier): The member is accessible within the same package.
+Private: The member is accessible only within the same class.
