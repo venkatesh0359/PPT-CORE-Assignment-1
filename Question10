@@ -1,1 +1,8 @@
+Q10. Explain the architecture of JVM.
 
+
+The JVM architecture consists of three main components:
+
+Class Loader: It loads the Java class files into memory.
+Execution Engine: It executes the bytecode by interpreting it or using the JIT compiler.
+Runtime Data Areas: These include the method area, heap, stack, PC registers, and native method stacks, which are used for various runtimeoperations, such as storing class data, managing objects, and tracking method execution.
