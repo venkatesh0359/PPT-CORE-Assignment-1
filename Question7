@@ -1,1 +1,8 @@
+Q7. Explain the types of variables in Java?
 
+
+In Java, there are three types of variables:
+
+Local variables: They are declared and used within a method or block and have no default values.
+Instance variables: They are declared inside a class but outside any method and are unique to each instance of the class.
+Class (static) variables: They are declared with the static keyword and are shared among all instances of the class.
