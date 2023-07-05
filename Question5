@@ -1,4 +1,6 @@
 Q5. What are the various access specifiers in Java?
+
+
 Java has four access specifiers:
 
 Public: The member can be accessed from anywhere.
