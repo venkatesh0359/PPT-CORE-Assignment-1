@@ -1,1 +1,7 @@
+Q9. What are the identifiers in Java?
 
+Identifiers in Java are used to give names to variables, methods, classes, packages, etc. They must follow certain rules:
+
+They can include letters, digits, and the underscore character (_).
+They must start with a letter or an underscore.
+They cannot be a reserved keyword in Java.
