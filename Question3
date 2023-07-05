@@ -1,1 +1,14 @@
+Q3. How many types of memory areas are allocated by JVM?
 
+
+JVM allocates memory in several areas:
+
+Heap: It is used for dynamic memory allocation and is divided into the young generation and the old generation.
+
+Stack: Each thread has its own stack, used to store local variables and partial results.
+
+Method Area: It stores class-level data, such as method code, field names, and method names.
+
+PC Registers: It holds the address of the current instruction being executed.
+
+Native Method Stack: It contains native method information.
