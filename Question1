@@ -1,1 +1,2 @@
-
+Q1. What is the difference between Compiler and Interpreter?
+A compiler translates the entire source code into machine code before the program is executed, while an interpreter translates and executes the source code line by line.
