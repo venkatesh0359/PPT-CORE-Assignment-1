@@ -1,1 +1,3 @@
+Q6. What is a compiler in Java?
 
+A compiler is a software tool that translates human-readable source code written in programming languages (like Java) into a form that a computer can execute. It performs lexical analysis, syntax analysis, and semantic analysis to generate executable code.
